@@ -1,0 +1,17 @@
+name: Pulsate
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run $GITHUB_WORKSPACE/run.sh
+        env:
+          token: ${{ secrets.PAT }}
+        run: 
+          sudo chmod +x run.sh && ./run.sh
