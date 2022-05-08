@@ -31,6 +31,7 @@ Double-rod pendulum
 Ever-changing bio!
 Flowery headaches and violin bows
 For you, no charge.
+Funes' vertiginous world
 Global information tracker
 Has-him-of without the h's
 Heisenberg's principle?
@@ -49,6 +50,7 @@ James and the Giant Cherry
 jmp 0xc700
 Kilroy was here
 Lady Mondegreen on the green
+Laplace's demon
 Live long and prosper!
 Living in Cantor's paradise
 Long live mesons!
@@ -70,6 +72,7 @@ Starry, starry night
 The clocks were striking thirteen.
 The epochalypse is coming!
 The official @agzg!
+There's a sword in my hat!
 The set of all memberless sets
 This statement is false.
 Travel to the Dashlands!
