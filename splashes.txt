@@ -1,6 +1,6 @@
+01/01/1970 to 19/01/2038
 0.306601 parsecs
 160 characters
-19 January 2038
 (3n + 1) / 2
 7 octillion atoms
 86 billion neurons
@@ -10,6 +10,7 @@ A good, zany giraffe
 All mimsy were the borogoves
 A PAT on the back!
 A room of one's own
+A sack of parrots and monkeys!
 Behind seven lands and seas
 Big Brother is watching!
 Bright yellow riboflavin
@@ -17,10 +18,9 @@ Butterfly squares
 Call me Ishmael.
 Char is not chart
 Charlie and the Childless Factory
-Circlock angels
+Checkmate!
 correcthorsebatterystaple
 Curiouser and curiouser!
-Daedalian labyrinth!
 Data! data! data!
 Dif-tor heh smusma
 Dit daw, dit daw
@@ -28,8 +28,10 @@ Don't blink!
 Don't tap the glass
 Do people even read this?
 Double-rod pendulum
+Eek barb dirkle
 Ever-changing bio!
 Flowery headaches and violin bows
+Flying pancake-shaped saucers
 For you, no charge.
 Funes' vertiginous world
 Global information tracker
@@ -37,8 +39,10 @@ Has-him-of without the h's
 Heisenberg's principle?
 How To Make Labels (HTML)
 https://twitter.com/_agzg
+I can taste my thoughts!
 I know that I know nothing
 Imagine a vast sheet of paper
+In a spatially tessellated void
 Intentionally left blank
 In the middle of Knowhere!
 Inv​​isible​ ​ZWSPs​?​​​
@@ -56,6 +60,7 @@ Living in Cantor's paradise
 Long live mesons!
 Look ma, I'm dynamic!
 Magnetic monopoles
+Maxwell's demon
 Missing a left ear?
 mv folder con
 Nagging rams since 2021
@@ -63,12 +68,12 @@ Number spelt backwards
 "Pentasyllabic" is!
 Pluto is not a planet!
 p/q2-q4!a is a bad password
+Proud and prejudiced.
 Quarky and positive
 Redditor u/agzg
 Ribonucleic acids
 Splashing in puddles!
 Stale pizza and flat coke
-Starry, starry night
 The clocks were striking thirteen.
 The epochalypse is coming!
 The official @agzg!
@@ -76,7 +81,6 @@ There's a sword in my hat!
 The set of all memberless sets
 This statement is false.
 Travel to the Dashlands!
-Turtles all the way down
 We embrace technicality
 Who shaves the barber?
 Wir werden wissen
