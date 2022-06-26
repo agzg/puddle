@@ -1,4 +1,3 @@
-01/01/1970 to 19/01/2038
 0.306601 parsecs
 160 characters
 (3n + 1) / 2
@@ -10,31 +9,31 @@ A good, zany giraffe
 All mimsy were the borogoves
 An anchorless ship at sea.
 A PAT on the back!
-A room of one's own
+A room of one's own.
 A sack of parrots and monkeys!
-Behind seven lands and seas
+Behind seven lands and seas...
 Big Brother is watching!
 Bright yellow riboflavin
 Butterfly squares
-Call me Ishmael.
 Char is not chart
 Charlie and the Childless Factory
 Checkmate!
 correcthorsebatterystaple
 Curiouser and curiouser!
+D'amore e di speranza!
 Data! data! data!
 Dif-tor heh smusma
 Dit daw, dit daw
 Don't blink!
-Don't tap the glass
+Don't call me Ishmael.
+Don't tap the glass.
 Do people even read this?
 Double-rod pendulum
 Eek barb dirkle
 Ever-changing bio!
-Flowery headaches and violin bows
+Flowery headaches
 Flying pancake-shaped saucers
 For you, no charge.
-Funes' vertiginous world
 Global information tracker
 Has-him-of without the h's
 Heisenberg's principle?
@@ -48,7 +47,6 @@ Intentionally left blank
 In the middle of Knowhere!
 Inv​​isible​ ​ZWSPs​?​​​
 Is the cat alive?
-It’s a good idea for a tee-shirt.
 I went to Manderley again.
 I wonder where I'll float next?
 James and the Giant Cherry
