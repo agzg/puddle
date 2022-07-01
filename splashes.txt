@@ -15,7 +15,6 @@ A sack of parrots and monkeys!
 As you were.
 Big Brother is watching!
 Bright yellow riboflavin
-Butterfly squares
 Call me Ishmael.
 Cold, forgotten cinders.
 correcthorsebatterystaple
@@ -36,7 +35,7 @@ Global information tracker
 Has-him-of without the h's
 I know that I know nothing
 Ill winds follow grave robbers.
-Imagine a vast sheet of paper
+Imagine a vast sheet of paper...
 Intentionally left blank
 In the middle of Knowhere!
 In the set of all sets.
@@ -45,10 +44,9 @@ Is the cat alive?
 I went to Manderley again.
 James and the Giant Cherry
 jmp 0xc700
-Khaaaaaaaaaaaan!
+Khaaaaaaaaan!
 Kilroy was here
 Lady Mondegreen on the green
-Laplace's demon
 Live long and prosper!
 Living in Cantor's paradise
 Long live mesons!
@@ -64,8 +62,7 @@ p/q2-q4!a
 Quarky and positive
 Redditor u/agzg
 Ribonucleic acids
-Splashing in puddles!
-Squashing bugs I create
+Splashing in a puddle!
 Stale pizza and flat coke
 s/z/o/
 The official @agzg!
@@ -75,7 +72,6 @@ This statement is false.
 Travelling alongside a light-beam.
 Travel to the Dashlands!
 tr z o
-Whip me ye devils!
 Who shaves the barber?
 Wir werden wissen.
 You are likely to be eaten by a grue.
