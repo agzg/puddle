@@ -1,4 +1,5 @@
 0.306601 parsecs
+12.5 mi from Traverse City, Michigan
 160 characters
 (3n + 1) / 2
 7 octillion atoms
@@ -14,16 +15,22 @@ All mimsy were the borogoves
 All that glitters is not gold.
 A maoire ad minus
 An anchorless ship at sea.
+Anthill inside
 A PAT on the back!
 Arare litus
 A room of one's own.
 A sack of parrots and monkeys!
+Assorted lengths of wire
 As you were, soldier.
+Bending girders to 32 degrees
+Beneath a fake agricultural station
 Big Brother is watching!
 Bright yellow riboflavin
+But, I am already in my pajamas.
 Cacoethes scribend
 Call me Ishmael.
 Carpe diem!
+Chowing on Bachelor Chow!
 Cogito, ergo sum.
 Cold, forgotten cinders.
 correcthorsebatterystaple
@@ -59,6 +66,8 @@ Ignotum loquor
 I know that I know nothing
 Ill winds follow grave robbers.
 Imagine a vast sheet of paper...
+I'm feeling lucky
+In a Tralfamadorian zoo!
 Intentionally left blank
 In the middle of Knowhere!
 In the set of all non-teacups.
@@ -85,16 +94,21 @@ Nullius in verba
 Obiter dictum
 On an accelerating train.
 Ordo ab chao
+Out of Cheese Error
 "Pentasyllabic" is!
+People did not like it here.
 Pinxit Mea
 Pluto is not a planet!
 p/q2-q4!a
 Quarky and positive
 Redditor u/agzg
 Ribonucleic acids
+/S[A-z]{2,}k/g
 Si omnia ficta
+Smells like burnt steak!
 Splashing in a puddle!
 Stale pizza and flat coke
+Sybok rejected logic
 s/z/o/
 The official @agzg!
 There's a sword in my hat!
@@ -103,6 +117,9 @@ This statement is false.
 Travelling alongside a light-beam.
 Travel to the Dashlands!
 tr z o
+umop-apisdn
+We're whalers on the Moon!
 Who shaves the barber?
 Wir werden wissen.
+Wrapped in wet blankets.
 You are likely to be eaten by a grue.
