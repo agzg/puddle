@@ -1,9 +1,11 @@
 0.306601 parsecs
 160 characters
+2 × 10^17 seconds
 (3n + 1) / 2
 7 octillion atoms
 86 billion neurons
 9-5-Wictor-Wictor-2
+about:blank
 Abstemious and facetious
 Ad infinitum
 Aegri somnia
@@ -11,7 +13,6 @@ Aegri somnia
 Alea iacta est
 All mimsy were the borogoves
 All that glitters is not gold.
-A maoire ad minus
 An anchorless ship at sea.
 Anthill inside
 A PAT on the back!
@@ -28,8 +29,9 @@ Bright yellow riboflavin
 But, I am already in my pajamas.
 Cacoethes scribend
 Call me Ishmael.
+Closet of curiosities
 Cogito, ergo sum.
-Cold, forgotten cinders.
+Cold, forgotten cinders
 Contracrostipunctus!
 correcthorsebatterystaple
 Curiouser and curiouser!
@@ -60,6 +62,7 @@ Has-him-of without the h's
 Here be dragons.
 Hypotheses non fingo
 I Cannot Be Played on Record Player X
+If this isn't nice, I don't know what is.
 Ignotum loquor
 I know that I know nothing
 Ill winds follow grave robbers.
@@ -85,7 +88,6 @@ Look ma, I'm dynamic!
 Lord, what fools these mortals be!
 Missing a left ear?
 Mors tua vita mea
-Must kill all humans...
 [muttering unintelligibly]
 mv folder con
 Nature abhors vacuum.
@@ -98,14 +100,12 @@ Ordo ab chao
 Out of Cheese Error
 "Pentasyllabic" is!
 People did not like it here.
-Pinxit Mea
 Pluto is not a planet!
 p/q2-q4!a
 Quarky and positive
 Redditor u/agzg
 Ribonucleic acids
 /S[A-z]{2,}k/g
-Si omnia ficta
 Smells like burnt steak!
 Splashing in a puddle!
 Stale pizza and flat coke
