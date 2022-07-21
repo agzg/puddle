@@ -1,6 +1,6 @@
 0.306601 parsecs
+1.5768e+17 seconds
 160 characters
-2 × 10^17 seconds
 (3n + 1) / 2
 7 octillion atoms
 86 billion neurons
