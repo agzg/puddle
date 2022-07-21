@@ -35,7 +35,6 @@ Cold, forgotten cinders
 Contracrostipunctus!
 correcthorsebatterystaple
 Curiouser and curiouser!
-Damnatio memoriae
 D'amore e di speranza!
 Data! data! data!
 Déchiffrer tout ce gâchis
@@ -121,6 +120,7 @@ Travel to the Dashlands!
 tr z o
 Turing-complete!
 umop-apisdn
+values of β will give rise to dom!
 We're whalers on the Moon!
 Who shaves the barber?
 Who wants to live forever?
