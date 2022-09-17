@@ -1,37 +1,33 @@
 0.306601 parsecs
 1.5768e+17 seconds
 160 characters
-(3n + 1) / 2
 7 octillion atoms
 86 billion neurons
 9-5-Wictor-Wictor-2
 about:blank
 Abstemious and facetious
 Ad infinitum
+adness, utter and coplete adness
 Aegri somnia
 @agzg​ception!
 Alea iacta est
 All mimsy were the borogoves
 All that glitters is not gold.
 An anchorless ship at sea.
-Anthill inside
 A PAT on the back!
-Arare litus
 A room of one's own.
 A sack of parrots and monkeys!
-Assorted lengths of wire
 As you were, soldier.
 Bending girders to 32 degrees
 Beneath a fake agricultural station
+Beware the Weeping Angels!
 Big Brother is watching!
-Bored to tears.
 Bright yellow riboflavin
-But, I am already in my pajamas.
-Cacoethes scribend
 Call me Ishmael.
 Closet of curiosities
 Cogito, ergo sum.
 Cold, forgotten cinders
+Comes with apsparagus
 Contracrostipunctus!
 correcthorsebatterystaple
 Curiouser and curiouser!
@@ -42,27 +38,22 @@ Dif-tor heh smusma
 Don't tap the glass.
 Do people even read this?
 Double-rod pendulum
+dsw: delete from switches
 Dum vita est, spes est
-Editio princeps
 Eek barba durkle
-Est modus in rebus
-Esto perpetua
-Et facta est lux
 Et tu, Brute?
 Ever-changing bio!
 Ex Astris Scientia
-Ex luce ad tenebras
-External inertial dampener
-Festina lente
+Festina lente, sailor.
 For you, no charge.
 Geralt of Rivia
 Global information tracker
+Glory to the hypno-toad!
 Has-him-of without the h's
-Here be dragons.
 Hypotheses non fingo
+There are giants in the sky...
 I Cannot Be Played on Record Player X
 If this isn't nice, I don't know what is.
-Ignotum loquor
 I know that I know nothing
 Ill winds follow grave robbers.
 Imagine a vast sheet of paper...
@@ -72,31 +63,28 @@ Intentionally left blank
 In the middle of Knowhere!
 In the set of all non-teacups.
 Inv​​isible​ ​ZWSPs​?​​​
-Is the cat alive?
+The cat is alive. Or is it?
 I went to Manderley again.
 James and the Giant Cherry
 jmp 0xc700
 Khaaaaaaaaan!
 Kilroy was here
 Lady Mondegreen on the green
-Lectori salutem
 Live long and prosper!
 Living in Cantor's paradise
 Long live mesons!
 Look ma, I'm dynamic!
 Lord, what fools these mortals be!
+Merely a thinking reed.
 Missing a left ear?
 Mors tua vita mea
 [muttering unintelligibly]
 mv folder con
+Astroids and asteroids!
 Nature abhors vacuum.
 Nilfgaard is nigh.
-Nullius in verba
-Obiter dictum
 On an accelerating train.
 One eyelash and three skin flakes.
-Ordo ab chao
-Out of Cheese Error
 "Pentasyllabic" is!
 People did not like it here.
 Pluto is not a planet!
@@ -108,7 +96,7 @@ Ribonucleic acids
 Smells like burnt steak!
 Splashing in a puddle!
 Stale pizza and flat coke
-Sybok rejected logic
+Sybok rejected logic!
 The official @agzg!
 There be monsters.
 There's a sword in my hat!
@@ -120,11 +108,12 @@ Travel to the Dashlands!
 tr z o
 Turing-complete!
 umop-apisdn
+Under my desk reading Frege.
 values of β will give rise to dom!
 We're whalers on the Moon!
 Who shaves the barber?
 Who wants to live forever?
-Wielding the ceremonial killamajig!
+Wibbly-wobbly, timey-wimey stuff
 Wir werden wissen.
 Wrapped in wet blankets.
 You are likely to be eaten by a grue.
