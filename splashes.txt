@@ -63,7 +63,7 @@ Intentionally left blank
 In the middle of Knowhere!
 In the set of all non-teacups.
 Inv​​isible​ ​ZWSPs​?​​​
-The cat is alive. Or is it?
+The cat is alive, or is it?
 I went to Manderley again.
 James and the Giant Cherry
 jmp 0xc700
