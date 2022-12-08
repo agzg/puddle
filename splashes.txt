@@ -17,6 +17,7 @@ An anchorless ship at sea.
 A PAT on the back!
 A room of one's own.
 A sack of parrots and monkeys!
+Astroids and asteroids!
 As you were, soldier.
 Bending girders to 32 degrees
 Beneath a fake agricultural station
@@ -25,6 +26,7 @@ Big Brother is watching!
 Bright yellow riboflavin
 Call me Ishmael.
 Closet of curiosities
+Clouds in my coffee
 Cogito, ergo sum.
 Cold, forgotten cinders
 Comes with apsparagus
@@ -50,8 +52,8 @@ Geralt of Rivia
 Global information tracker
 Glory to the hypno-toad!
 Has-him-of without the h's
+Hell isn't other people.
 Hypotheses non fingo
-There are giants in the sky...
 I Cannot Be Played on Record Player X
 If this isn't nice, I don't know what is.
 I know that I know nothing
@@ -63,7 +65,7 @@ Intentionally left blank
 In the middle of Knowhere!
 In the set of all non-teacups.
 Inv​​isible​ ​ZWSPs​?​​​
-The cat is alive, or is it?
+It's a pleasure to burn.
 I went to Manderley again.
 James and the Giant Cherry
 jmp 0xc700
@@ -80,13 +82,13 @@ Missing a left ear?
 Mors tua vita mea
 [muttering unintelligibly]
 mv folder con
-Astroids and asteroids!
 Nature abhors vacuum.
 Nilfgaard is nigh.
 On an accelerating train.
 One eyelash and three skin flakes.
 "Pentasyllabic" is!
 People did not like it here.
+Permutations of possibilities
 Pluto is not a planet!
 p/q2-q4!a
 Quarky and positive
@@ -97,9 +99,13 @@ Smells like burnt steak!
 Splashing in a puddle!
 Stale pizza and flat coke
 Sybok rejected logic!
+Tetra + tennis
+The cat is alive, or is it?
 The official @agzg!
+There are giants in the sky...
 There be monsters.
 There's a sword in my hat!
+The sum of all my parts
 The valiant Swabian!
 This statement is false.
 To shreds, you say.
@@ -110,10 +116,13 @@ Turing-complete!
 umop-apisdn
 Under my desk reading Frege.
 values of β will give rise to dom!
+Visiting a subnuclear zoo
 We're whalers on the Moon!
 Who shaves the barber?
+Who wants to live forever
 Who wants to live forever?
 Wibbly-wobbly, timey-wimey stuff
 Wir werden wissen.
 Wrapped in wet blankets.
 You are likely to be eaten by a grue.
+ΑΓΕΩΜΕΤΡΗΤΟΣ ΜΗΔΕΙΣ ΕΙΣΙΤΩ
