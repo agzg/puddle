@@ -1,6 +1,7 @@
 0.306601 parsecs
 1.5768e+17 seconds
 160 characters
+64 squares and 16 pieces
 7 octillion atoms
 86 billion neurons
 9-5-Wictor-Wictor-2
@@ -12,10 +13,12 @@ Aegri somnia
 @agzg​ception!
 Alea iacta est
 All Cretans are liars
+Alles Gute zum Geburtstag!
 All mimsy were the borogoves
 All that glitters is not gold.
 An anchorless ship at sea.
 A PAT on the back!
+Are you certain you understand my language?
 A room of one's own.
 A sack of parrots and monkeys!
 Astroids and asteroids!
@@ -58,7 +61,7 @@ Geralt of Rivia
 Global information tracker
 Glory to the hypno-toad!
 Has-him-of without the h's
-Hell isn't other people.
+Hell is yourself.
 He went galumphing back
 Hypotheses non fingo
 I Cannot Be Played on Record Player X
@@ -69,11 +72,13 @@ Ill winds follow grave robbers.
 Imagine a vast sheet of paper...
 I'm feeling lucky
 In a Tralfamadorian zoo!
+In search of the circular book...
 Intentionally left blank
 In the middle of Knowhere!
 In the set of all non-teacups.
 Inv​​isible​ ​ZWSPs​?​​​
 I programmed you to believe that
+Is nature a gigantic cat?
 It's a pleasure to burn.
 I went to Manderley again.
 James and the Giant Cherry
@@ -98,6 +103,7 @@ Nature abhors vacuum.
 Nilfgaard is nigh.
 On an accelerating train.
 One eyelash and three skin flakes.
+O Time thy pyramids
 "Pentasyllabic" is!
 People did not like it here.
 Permutations of possibilities
@@ -114,6 +120,7 @@ Stale pizza and flat coke
 Sybok rejected logic!
 Tetra + tennis
 The cat is alive, or is it?
+The meaning of dhcmrlchtdj...
 The official @agzg!
 There are giants in the sky...
 There be monsters.
@@ -130,11 +137,10 @@ umop-apisdn
 Under my desk reading Frege.
 values of β will give rise to dom!
 Visiting a subnuclear zoo
-We're whalers on the Moon!
+We're whalers on the moon!
 What is the hatter with me?
 Who shaves the barber?
 Who wants to live forever
-Who wants to live forever?
 Wibbly-wobbly, timey-wimey stuff
 Wir werden wissen.
 Wrapped in wet blankets.
