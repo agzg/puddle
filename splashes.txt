@@ -47,11 +47,8 @@ Double-rod pendulum
 Downal wyth Bluddy Behg Hid!
 dsw: delete from switches
 Dum vita est, spes est
-<<<<<<< HEAD
 Eating pizza at Corleone's
-=======
 Eating Upelkuchen
->>>>>>> origin/main
 Eek barba durkle
 Et tu, Brute?
 Ever-changing bio!
@@ -65,6 +62,7 @@ Geralt of Rivia
 Global information tracker
 Glory to the hypno-toad!
 Has-him-of without the h's
+<<<<<<< HEAD
 Hell is yourself.
 Hello, world!
 He went galumphing back
@@ -83,13 +81,10 @@ In search of the circular book...
 Intentionally left blank
 In the middle of Knowhere!
 In the set of all non-teacups.
-Inv​​isible​ ​ZWSPs​?​​​
-<<<<<<< HEAD
-=======
+Inv​​isible​ ​ZWSPs​?
 I programmed you to believe that
 Is nature a gigantic cat?
 It's a pleasure to burn.
->>>>>>> origin/main
 I went to Manderley again.
 James and the Giant Cherry
 jmp 0xc700
@@ -106,37 +101,34 @@ Look ma, I'm dynamic!
 Lord, what fools these mortals be!
 Merely a thinking reed.
 Missing a left ear?
-<<<<<<< HEAD
+MMXXIII < now < MMXXIV
 Mobster Sauce; now with mobster chunks!
 Mors tua vita mea
-[muttering unintelligibly]
-mv folder con
-Nature abhors vacuum.
-Nilfgaard is nigh.
-Oh, how I wish I could.
-On an accelerating train.
-One eyelash and three skin flakes.
-Painting Torricelli's trumpet.
-=======
-MMXXIII < now < MMXXIV
 Mors tua vita mea
 [muttering unintelligibly]
+[muttering unintelligibly]
 mv directory/ con/
+mv folder con
 My name is Yon Yonson...
 Nature abhors vacuum.
+Nature abhors vacuum.
+Nilfgaard is nigh.
 Nilfgaard is nigh.
 No kidding?
+Oh, how I wish I could.
+On an accelerating train.
 On an accelerating train.
 One eyelash and three skin flakes.
+One eyelash and three skin flakes.
 O Time thy pyramids
->>>>>>> origin/main
+Painting Torricelli's trumpet.
 "Pentasyllabic" is!
 People did not like it here.
 Permutations of possibilities
 Plan Nine from Outer Space
 Pluto is not a planet!
 p/q2-q4!a
-Praise to the wise Prearrangement!
+Praise be to the wise Prearrangement!
 Quarky and positive
 Redditor u/agzg
 Renaming the FLDSMDFR...
@@ -151,12 +143,8 @@ sort -o splashes.txt splashes.txt
 Splashing in a puddle!
 Stale pizza and flat coke
 Sybok rejected logic!
-<<<<<<< HEAD
-The cat is alive. Or is it?
-=======
 Tetra + tennis
 The cat is alive...or is it?
->>>>>>> origin/main
 The official @agzg!
 There are giants in the sky...
 There be monsters.
@@ -186,9 +174,6 @@ Wir werden wissen.
 Wrapped in wet blankets.
 Writing an anti-glacier book
 You are likely to be eaten by a grue.
-<<<<<<< HEAD
-You shall not pass!
-=======
 You're all late for tea
+You shall not pass!
 ΑΓΕΩΜΕΤΡΗΤΟΣ ΜΗΔΕΙΣ ΕΙΣΙΤΩ
->>>>>>> origin/main
