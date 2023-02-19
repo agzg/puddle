@@ -1,6 +1,7 @@
 0.306601 parsecs
 1.5768e+17 seconds
 160 characters
+64 squares and 16 pieces
 7 octillion atoms
 86 billion neurons
 9-5-Wictor-Wictor-2
@@ -11,9 +12,12 @@ adness, utter and coplete adness
 Aegri somnia
 @agzg​ception!
 Alea iacta est
+All Cretans are liars
+Alles Gute zum Geburtstag!
 All mimsy were the borogoves
 All that glitters is not gold.
 An anchorless ship at sea.
+And so it goes
 A PAT on the back!
 A room of one's own.
 A sack of parrots and monkeys!
@@ -26,6 +30,7 @@ Big Brother is watching!
 Bright yellow riboflavin
 Call me Ishmael.
 Closet of curiosities
+Clouds in my coffee
 Cogito, ergo sum.
 Cold, forgotten cinders
 Comes with apsparagus
@@ -39,38 +44,61 @@ Dif-tor heh smusma
 Don't tap the glass.
 Do people even read this?
 Double-rod pendulum
+Downal wyth Bluddy Behg Hid!
 dsw: delete from switches
 Dum vita est, spes est
+<<<<<<< HEAD
 Eating pizza at Corleone's
+=======
+Eating Upelkuchen
+>>>>>>> origin/main
 Eek barba durkle
 Et tu, Brute?
 Ever-changing bio!
+Everyone's a robot
 Ex Astris Scientia
 Festina lente, sailor.
+Floating my boat
 For you, no charge.
 Frosting Gabriel's cake.
 Geralt of Rivia
 Global information tracker
 Glory to the hypno-toad!
 Has-him-of without the h's
+Hell is yourself.
+Hello, world!
+He went galumphing back
 Hypotheses non fingo
 I Cannot Be Played on Record Player X
+I come from Witzend
 If this isn't nice, I don't know what is.
 I know that I know nothing
 Ill winds follow grave robbers.
 Imagine a vast sheet of paper...
 I'm feeling lucky
+I'm not Batman
 In a Tralfamadorian zoo!
+I need more context.
+In search of the circular book...
 Intentionally left blank
 In the middle of Knowhere!
 In the set of all non-teacups.
 Inv​​isible​ ​ZWSPs​?​​​
+<<<<<<< HEAD
+=======
+I programmed you to believe that
+Is nature a gigantic cat?
+It's a pleasure to burn.
+>>>>>>> origin/main
 I went to Manderley again.
 James and the Giant Cherry
 jmp 0xc700
 Khaaaaaaaaan!
 Kilroy was here
+Kites Ho!
 Lady Mondegreen on the green
+Like a tea tray in the sky
+Like flaming globes, Sigmond
 Live long and prosper!
 Living in Cantor's paradise
 Long live mesons!
@@ -78,6 +106,7 @@ Look ma, I'm dynamic!
 Lord, what fools these mortals be!
 Merely a thinking reed.
 Missing a left ear?
+<<<<<<< HEAD
 Mobster Sauce; now with mobster chunks!
 Mors tua vita mea
 [muttering unintelligibly]
@@ -88,24 +117,55 @@ Oh, how I wish I could.
 On an accelerating train.
 One eyelash and three skin flakes.
 Painting Torricelli's trumpet.
+=======
+MMXXIII < now < MMXXIV
+Mors tua vita mea
+[muttering unintelligibly]
+mv directory/ con/
+My name is Yon Yonson...
+Nature abhors vacuum.
+Nilfgaard is nigh.
+No kidding?
+On an accelerating train.
+One eyelash and three skin flakes.
+O Time thy pyramids
+>>>>>>> origin/main
 "Pentasyllabic" is!
 People did not like it here.
+Permutations of possibilities
+Plan Nine from Outer Space
 Pluto is not a planet!
 p/q2-q4!a
+Praise to the wise Prearrangement!
 Quarky and positive
 Redditor u/agzg
+Renaming the FLDSMDFR...
 Ribonucleic acids
 /S[A-z]{2,}k/g
+Seinfeld S1:E11 at 20:28
+Sleeping on a bouncy castle
 Smells like burnt steak!
+Something funny!
+Sonnets of pure reason
+sort -o splashes.txt splashes.txt
 Splashing in a puddle!
 Stale pizza and flat coke
 Sybok rejected logic!
+<<<<<<< HEAD
 The cat is alive. Or is it?
+=======
+Tetra + tennis
+The cat is alive...or is it?
+>>>>>>> origin/main
 The official @agzg!
 There are giants in the sky...
 There be monsters.
 There's a sword in my hat!
+These are big hot dogs.
+The sum of all my parts
+The true meaning of dhcmrlchtdj
 The valiant Swabian!
+Think indifferent
 This statement is false.
 To shreds, you say.
 Travelling alongside a light-beam.
@@ -114,12 +174,21 @@ tr z o
 Turing-complete!
 umop-apisdn
 Under my desk reading Frege.
+Un-unravelable!
 values of β will give rise to dom!
-We're whalers on the Moon!
+Visiting a subnuclear zoo
+We're whalers on the moon!
+What is the hatter with me?
 Who shaves the barber?
-Who wants to live forever?
+Who wants to live forever
 Wibbly-wobbly, timey-wimey stuff
 Wir werden wissen.
 Wrapped in wet blankets.
+Writing an anti-glacier book
 You are likely to be eaten by a grue.
+<<<<<<< HEAD
 You shall not pass!
+=======
+You're all late for tea
+ΑΓΕΩΜΕΤΡΗΤΟΣ ΜΗΔΕΙΣ ΕΙΣΙΤΩ
+>>>>>>> origin/main
