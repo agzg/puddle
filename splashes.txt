@@ -17,6 +17,7 @@ An anchorless ship at sea.
 A PAT on the back!
 A room of one's own.
 A sack of parrots and monkeys!
+Astroids and asteroids!
 As you were, soldier.
 Bending girders to 32 degrees
 Beneath a fake agricultural station
@@ -40,18 +41,19 @@ Do people even read this?
 Double-rod pendulum
 dsw: delete from switches
 Dum vita est, spes est
+Eating pizza at Corleone's
 Eek barba durkle
 Et tu, Brute?
 Ever-changing bio!
 Ex Astris Scientia
 Festina lente, sailor.
 For you, no charge.
+Frosting Gabriel's cake.
 Geralt of Rivia
 Global information tracker
 Glory to the hypno-toad!
 Has-him-of without the h's
 Hypotheses non fingo
-There are giants in the sky...
 I Cannot Be Played on Record Player X
 If this isn't nice, I don't know what is.
 I know that I know nothing
@@ -63,7 +65,6 @@ Intentionally left blank
 In the middle of Knowhere!
 In the set of all non-teacups.
 Inv​​isible​ ​ZWSPs​?​​​
-The cat is alive. Or is it?
 I went to Manderley again.
 James and the Giant Cherry
 jmp 0xc700
@@ -77,14 +78,16 @@ Look ma, I'm dynamic!
 Lord, what fools these mortals be!
 Merely a thinking reed.
 Missing a left ear?
+Mobster Sauce; now with mobster chunks!
 Mors tua vita mea
 [muttering unintelligibly]
 mv folder con
-Astroids and asteroids!
 Nature abhors vacuum.
 Nilfgaard is nigh.
+Oh, how I wish I could.
 On an accelerating train.
 One eyelash and three skin flakes.
+Painting Torricelli's trumpet.
 "Pentasyllabic" is!
 People did not like it here.
 Pluto is not a planet!
@@ -97,7 +100,9 @@ Smells like burnt steak!
 Splashing in a puddle!
 Stale pizza and flat coke
 Sybok rejected logic!
+The cat is alive. Or is it?
 The official @agzg!
+There are giants in the sky...
 There be monsters.
 There's a sword in my hat!
 The valiant Swabian!
@@ -117,3 +122,4 @@ Wibbly-wobbly, timey-wimey stuff
 Wir werden wissen.
 Wrapped in wet blankets.
 You are likely to be eaten by a grue.
+You shall not pass!
