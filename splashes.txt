@@ -65,6 +65,7 @@ Has-him-of without the h's
 <<<<<<< HEAD
 Hell is yourself.
 Hello, world!
+Heuristic 693 is the best.
 He went galumphing back
 Hypotheses non fingo
 I Cannot Be Played on Record Player X
@@ -116,6 +117,7 @@ On an accelerating train.
 One eyelash and three skin flakes.
 O Time thy pyramids
 Painting Torricelli's trumpet.
+Pay no attention to Lenat!
 "Pentasyllabic" is!
 People did not like it here.
 Permutations of possibilities
