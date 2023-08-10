@@ -133,7 +133,6 @@ Ribonucleic acids
 Seinfeld S1:E11 at 20:28
 Sleeping on a bouncy castle
 Smells like burnt steak!
-Something funny!
 Sonnets of pure reason
 sort -o splashes.txt splashes.txt
 Splashing in a puddle!
